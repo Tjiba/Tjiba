@@ -1,11 +1,7 @@
 <h1 align="center">
 <img src="assets/tjibalogoT.png" alt="logo"> </h1>
 
-###
-
 <h2 align="center">☁ Minecraft Shts ☁</h2>
-
-###
 
 
 <p align="center">
@@ -15,7 +11,6 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
 </p>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tjiba/Tjiba/output/pacman-contribution-graph-dark.svg">
@@ -23,4 +18,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tjiba/Tjiba/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
