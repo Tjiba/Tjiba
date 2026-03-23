@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./assets/js.gif" width="110" alt="JS" />
+  <img src="./assets/js2.gif" width="110" alt="JS" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
