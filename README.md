@@ -6,7 +6,7 @@ Skyblock ecosystem.</p>
 
 ###
 <div align="center">
-    <img src="assets/Protools.svg" height="48">
+    <img src="assets/protools.svg" height="48">
     <img src="https://skillicons.dev/icons?i=idea" />
 </div>
 
