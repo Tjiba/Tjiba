@@ -2,7 +2,9 @@
 <img src="assets/tjibalogoT.png" alt="logo"> </h1>
 
 ###
+
 <h2 align="center">☁ Minecraft Shts ☁</h2>
+
 ###
 
 
