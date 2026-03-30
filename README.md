@@ -13,7 +13,7 @@ Skyblock ecosystem.</p>
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,java,js,css,kotlin,html" />
+  <img src="https://skillicons.dev/icons?i=ts,java,js,kotlin,html,css,react,tailwind,mysql" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/Tjiba/github-stats-transparent/output/generated/overview.svg" />
   <img src="https://raw.githubusercontent.com/Tjiba/github-stats-transparent/output/generated/languages.svg" />
